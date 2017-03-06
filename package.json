@@ -1,0 +1,22 @@
+{
+  "name": "is-systemd",
+  "version": "0.0.1",
+  "description": "Check if the process runs under systemd. Edit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Okoyl/is-systemd.git"
+  },
+  "keywords": [
+    "systemd"
+  ],
+  "author": "Amin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Okoyl/is-systemd/issues"
+  },
+  "homepage": "https://github.com/Okoyl/is-systemd#readme"
+}
