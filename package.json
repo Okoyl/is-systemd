@@ -1,6 +1,6 @@
 {
   "name": "is-systemd",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Check if the process runs under systemd. Edit",
   "main": "index.js",
   "scripts": {
